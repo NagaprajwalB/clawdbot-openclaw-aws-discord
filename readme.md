@@ -92,7 +92,14 @@ To set up Discord for your Clawdbot (Moltbot) bot, create the application in the
 
 - Node.js CLI (moltbot onboard), hot-reload config, extensible agent architecture
 
-## ScreenShots 
+## SnapShots
+![Clawdbot-OpenClaw](ScreenShots/OpenClaw.png)
+
+![AWS Dashboard](ScreenShots/aws.png)
+
+![Discord_app](ScreenShots/Discord_app.png)
+
+![Discord_bot](ScreenShots/Discord_bot.png)
 
 ## AWS EC2 Hosting Advantages (vs Local)
 ### Security Benefits:
