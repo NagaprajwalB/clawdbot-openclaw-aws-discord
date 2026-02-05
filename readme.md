@@ -1,4 +1,4 @@
-## Clawdbot (Moltbot) Deployment README
+## Clawdbot (Moltbot): Production‑Ready Discord AI Assistant on AWS EC2
 Clawdbot, now known as Moltbot, is a personal AI assistant that integrates with Discord and other channels, deployable on Ubuntu AWS EC2 instances. This README provides step-by-step instructions for hosting on Ubuntu, connecting to Discord, and running persistently
 - WEBSITE NAME == ```https://openclaw.ai/ ```
 - GEMINI API KEY [ or any AI ] == ``` <Your_APi_Key> ```
